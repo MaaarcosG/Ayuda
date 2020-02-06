@@ -1,0 +1,9 @@
+Instalas el archivo que se llama forge-1.15.2-31.1.0-install.jar (solo lo ejecutas)
+
+Los siguiente archivos solo los colocas en la carpeta recomendada (no ejecutar)
+--> win + r y coloca la siguiente direccion de archivo %appdata%/.minecraft
+--> Te colocas en la carpeta de mods, dentro del archivo colocas los siguientes archivos (solo copy paste)
+
+		Xaeros_Minimap_1.19.1_Forge_1.14.4
+		[1.14.4]+SecurityCraft+v1.8.14.1
+		tombstone-4.1.3-1.14.4
